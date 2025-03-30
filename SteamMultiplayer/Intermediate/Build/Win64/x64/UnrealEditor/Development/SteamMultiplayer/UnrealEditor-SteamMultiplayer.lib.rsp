@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SteamMultiplayer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\SteamMultiplayerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\SteamMultiplayer.init.gen.cpp.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\SteamMultiplayerCharacter.gen.cpp.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\SteamMultiplayerGameMode.gen.cpp.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\SteamMultiplayer.cpp.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\SteamMultiplayerCharacter.cpp.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\SteamMultiplayerGameMode.cpp.obj"
+"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\Default.rc2.res"
+/OUT:"D:\Unreal\SteamUnrealMultiplayer\SteamMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\SteamMultiplayer\UnrealEditor-SteamMultiplayer.lib"

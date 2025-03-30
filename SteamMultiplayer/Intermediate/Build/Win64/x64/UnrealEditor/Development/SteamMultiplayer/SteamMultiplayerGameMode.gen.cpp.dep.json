@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\uht\\steammultiplayergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\steammultiplayereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammultiplayer\\definitions.steammultiplayer.h",
+            "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\source\\steammultiplayer\\steammultiplayergamemode.h",
+            "d:\\epicgames\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epicgames\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epicgames\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epicgames\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\uht\\steammultiplayergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

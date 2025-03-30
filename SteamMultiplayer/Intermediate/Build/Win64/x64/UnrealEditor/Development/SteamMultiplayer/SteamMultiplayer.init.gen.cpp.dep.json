@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\uht\\steammultiplayer.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\steammultiplayereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\steamunrealmultiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammultiplayer\\definitions.steammultiplayer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
